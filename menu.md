@@ -2,7 +2,7 @@
 
 ## 快速幂运算
 
-
+- https://leetcode.com/problems/powx-n/
 
 ## 大数相乘
 
