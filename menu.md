@@ -17,22 +17,32 @@
 - https://leetcode.com/problems/combination-sum/
 - https://leetcode.com/problems/combination-sum-ii
 
+## DFS
+
+https://leetcode.com/problems/path-sum-ii/
+
 ## 排序/查找
 
 ### 二分
 
 - https://leetcode.com/problems/4sum
 
-## 二叉树
+### 二叉树
 
 - 前序遍历/中序遍历/后序遍历
 
 前序遍历 + 中序遍历 -> 二叉树
 后序遍历 + 中序遍历 -> 二叉树
 
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+
 - 平衡二叉树
 
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+
 有序数组 -> 平衡二叉树
+
 
 ### 三分
 
