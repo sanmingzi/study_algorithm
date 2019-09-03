@@ -58,7 +58,7 @@ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 
 ### 三分
 
-### 字典树
+## Prefix Tree（字典树）
 
 ## KMP
 
