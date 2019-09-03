@@ -27,6 +27,14 @@ https://leetcode.com/problems/word-ladder/
 
 ## 排序/查找
 
+### 快速排序
+
+- 数组实现
+
+- 单链表实现
+
+https://leetcode.com/problems/sort-list/
+
 ### 二分
 
 - https://leetcode.com/problems/4sum
@@ -59,3 +67,9 @@ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 ## 线段树
 
 ## 图论
+
+- 判断有向图是否有环
+
+https://leetcode.com/problems/course-schedule/
+
+
