@@ -24,6 +24,7 @@ https://leetcode.com/problems/path-sum-ii/
 - 双向广搜
 
 https://leetcode.com/problems/word-ladder/
+https://leetcode.com/problems/word-ladder-ii/
 
 ## 排序/查找
 
@@ -71,5 +72,22 @@ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 - 判断有向图是否有环
 
 https://leetcode.com/problems/course-schedule/
+
+## 并查集
+
+https://leetcode.com/problems/longest-consecutive-sequence/
+
+## 散列表
+
+## 动态规划
+
+https://leetcode.com/problems/palindrome-partitioning-ii/
+
+## 递归
+
+https://leetcode.com/problems/candy/submissions/
+
+https://leetcode.com/problems/word-break-ii/submissions/
+
 
 
