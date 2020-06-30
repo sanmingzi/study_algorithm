@@ -22,14 +22,9 @@ class MinHeap
   end
 
   def swim(index)
-    while index > 1
-      parent_index = index / 2
-      if less(index, parent_index)
-        exch(index, parent_index)
-        index = parent_index
-      else
-        break
-      end
+    while index > 1 && less(index, index / 2)
+      exch(index, index / 2)
+      index /= 2
     end
   end
 
