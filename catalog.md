@@ -1,10 +1,12 @@
 # 目录
 
-## 数据结构
-
-### 链表
-
-- [Linked List（链表）](linked-listff08-lian-biao-ff09.md)
+- 数据结构
+  - 二叉树
+    - 中序遍历
+      - 递归法
+      - 迭代法
+  - 链表
+    - [Linked List（链表）](linked-listff08-lian-biao-ff09.md)
 
 ### 算法
 
