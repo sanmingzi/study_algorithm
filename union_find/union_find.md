@@ -25,9 +25,7 @@ end
 
 ## 例题解析
 
-### [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
-
-- 解题思路
+- [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
 
 ```m
 1. 分别对Alice和Bob做一次并查集
@@ -37,3 +35,5 @@ end
 ```
 
 [AC Code](leetcode_1579.rb)
+
+- [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
