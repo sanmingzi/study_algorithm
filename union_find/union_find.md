@@ -37,3 +37,4 @@ end
 [AC Code](leetcode_1579.rb)
 
 - [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+- [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/)
