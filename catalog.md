@@ -17,8 +17,9 @@
   - 红黑树
   - 线段树
 - 算法
-  - 数独问题
-  - 八皇后问题
+  - 回溯 (backtracking)
+    - 数独问题 (sudoku)
+    - 八皇后问题
   - 快速幂运算
     - https://leetcode.com/problems/powx-n/
   - 大数相乘
