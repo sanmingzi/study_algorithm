@@ -17,6 +17,11 @@
   - 红黑树
   - 线段树
 - 算法
+  - 数学
+    - 矩阵
+      - [矩阵类](math/matrix/matrix.md)
+      - 高斯消元
+      - 矩阵的逆
   - 回溯 (backtracking)
     - 数独问题 (sudoku)
     - 八皇后问题
