@@ -34,9 +34,10 @@
     - https://leetcode.com/problems/combination-sum-ii
   - DFS
     - https://leetcode.com/problems/path-sum-ii/
-  - 双向广搜
-    - https://leetcode.com/problems/word-ladder/
-    - https://leetcode.com/problems/word-ladder-ii/
+  - BFS
+    - [双向广搜](bfs/both_direct_bfs/both_direct_bfs.md)
+      - https://leetcode.com/problems/word-ladder/
+      - https://leetcode.com/problems/word-ladder-ii/
   - 快速排序
     - 数组实现
     - 单链表实现
