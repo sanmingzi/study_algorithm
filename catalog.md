@@ -1,8 +1,8 @@
 # 目录
 
 - 数据结构
-  - 链表
-    - [Linked List（链表）](linked-listff08-lian-biao-ff09.md)
+  - [Linked List 链表](data_structure/linked_list/linked_list.md)
+  
   - 二叉树
     - 前序 / 中序 / 后序遍历
       - 递归法
@@ -10,12 +10,14 @@
     - 反向生成二叉树
       - 前序遍历 + 中序遍历 -> 二叉树
       - 后序遍历 + 中序遍历 -> 二叉树
+  
   - 平衡二叉树
     - 有序数组 -> 平衡二叉树
       - https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
   - Prefix Tree（前缀树 / 字典树）
   - 红黑树
   - 线段树
+  
 - 算法
   - 数学
     - 矩阵
