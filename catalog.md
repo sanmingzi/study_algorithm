@@ -4,7 +4,9 @@
   - [Linked List 链表](data_structure/linked_list/linked_list.md)
   
   - 二叉树
-    - 前序 / 中序 / 后序遍历
+    - [前序遍历](data_structure/binary_tree/preorder_traversal.md)
+    - [中序遍历](data_structure/binary_tree/inorder_traversal.md)
+    - [后序遍历](data_structure/binary_tree/postorder_traversal.md)
       - 递归法
       - 迭代法
     - 反向生成二叉树
@@ -14,23 +16,28 @@
   - 平衡二叉树
     - 有序数组 -> 平衡二叉树
       - https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+  - 并查集
   - Prefix Tree（前缀树 / 字典树）
   - 红黑树
   - 线段树
-  
-- 算法
-  - 数学
-    - 矩阵
-      - [矩阵类](math/matrix/matrix.md)
-      - 高斯消元
-      - 矩阵的逆
-  - 回溯 (backtracking)
-    - 数独问题 (sudoku)
-    - 八皇后问题
+
+- 数学
+  - 矩阵
+    - [矩阵类](math/matrix/matrix.md)
+    - 高斯消元
+    - 矩阵的逆
   - 快速幂运算
     - https://leetcode.com/problems/powx-n/
   - 大数相乘
     - https://leetcode.com/problems/multiply-strings/
+
+- 算法
+  - 排序
+    - [快速排序](algorithm/sort/quick_sort.md)
+    - [归并排序](algorithm/sort/merge_sort.md)
+  - 回溯 (backtracking)
+    - 数独问题 (sudoku)
+    - 八皇后问题
   - 背包问题
     - https://leetcode.com/problems/combination-sum/
     - https://leetcode.com/problems/combination-sum-ii
@@ -50,17 +57,17 @@
     - https://leetcode.com/problems/4sum
   - 三分
   - KMP
-  - 并查集
-  - 图论
-    - 无向图
-    - 有向图
-      - 判断有向图是否有环（https://leetcode.com/problems/course-schedule/）
-  - Binary Lifting (倍增法)
-    - K-th Ancestor
-    - LCA
   - 散列表
   - 动态规划
     - https://leetcode.com/problems/palindrome-partitioning-ii/
   - 递归
     - https://leetcode.com/problems/candy/submissions/
     - https://leetcode.com/problems/word-break-ii/submissions/
+
+- 图论
+  - 无向图
+  - 有向图
+    - 判断有向图是否有环（https://leetcode.com/problems/course-schedule/）
+  - Binary Lifting (倍增法)
+    - K-th Ancestor
+    - LCA
