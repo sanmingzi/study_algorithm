@@ -35,6 +35,8 @@
   - 排序
     - [快速排序](algorithm/sort/quick_sort.md)
     - [归并排序](algorithm/sort/merge_sort.md)
+  - 贪心
+    - [贪心](algorithm/greedy/greedy.md)
   - 回溯 (backtracking)
     - 数独问题 (sudoku)
     - 八皇后问题
