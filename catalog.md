@@ -54,7 +54,7 @@
     - 数组实现
     - 单链表实现
       - https://leetcode.com/problems/sort-list/
-  - 二分
+  - [二分](algorithm/binary_search/binary_search.md)
     - By Index
     - By Value
     - https://leetcode.com/problems/4sum
