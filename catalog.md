@@ -33,8 +33,9 @@
 
 - 算法
   - 排序
-    - [快速排序](algorithm/sort/quick_sort.md)
-    - [归并排序](algorithm/sort/merge_sort.md)
+    - [快速排序](algorithm/sort/quick_sort/quick_sort.md)
+    - [归并排序](algorithm/sort/merge_sort/merge_sort.md)
+    - [桶排序](algorithm/sort/bucket_sort/bucket_sort.md)
   - 贪心
     - [贪心](algorithm/greedy/greedy.md)
   - 回溯 (backtracking)
