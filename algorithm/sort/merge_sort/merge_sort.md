@@ -71,3 +71,4 @@ end
 ## 例题
 
 - [LeetCode 0148](https://leetcode-cn.com/problems/sort-list/)
+- [LeetCode 0493 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
