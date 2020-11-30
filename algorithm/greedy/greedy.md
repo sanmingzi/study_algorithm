@@ -8,3 +8,4 @@
 ## 例题
 
 - [LeetCode 0452 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+- [LeetCode 0767 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
