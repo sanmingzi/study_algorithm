@@ -15,3 +15,5 @@
 - [LeetCode 0767 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 
 - [LeetCode 0861 翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/)
+
+- [LeetCode 0738 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)
