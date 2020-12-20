@@ -24,4 +24,6 @@
 
 如果当前节点的深度小于或者等于栈顶节点的深度，我们将栈顶元素出栈。直到栈顶节点的深度小于当前节点。
 
+- [LeetCode 0316 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+
 - [LeetCode 0321 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
