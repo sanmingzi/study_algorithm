@@ -26,15 +26,21 @@ end
 ## 例题解析
 
 - [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+- [AC Code](leetcode_1579.rb)
 
-```m
+```
 1. 分别对Alice和Bob做一次并查集
 2. 做并查集的时候，我们优先考虑共享边
 3. 我们用一个数组 used 来标记一条边是否被使用
 4. 最后统计未使用的边的条数即可
 ```
 
-[AC Code](leetcode_1579.rb)
+## Practice
 
-- [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
-- [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/)
+- [LeetCode 0128 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+
+- [LeetCode 0399 除法求值](https://leetcode-cn.com/problems/evaluate-division/)
+
+- [LeetCode 0685 冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/)
+
+- [LeetCode 1579 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
