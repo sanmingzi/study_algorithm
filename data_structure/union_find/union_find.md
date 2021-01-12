@@ -41,6 +41,8 @@ end
 
 - [LeetCode 0399 除法求值](https://leetcode-cn.com/problems/evaluate-division/)
 
+- [LeetCode 0684 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)
+
 - [LeetCode 0685 冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/)
 
 - [LeetCode 1202 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/)
