@@ -15,3 +15,5 @@
 - [LeetCode 0649 Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/)
 
 - [LeetCode 0830 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/)
+
+- [LeetCode 1018 可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)
