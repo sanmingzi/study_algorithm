@@ -45,6 +45,8 @@ end
 
 - [LeetCode 0685 冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/)
 
+- [LeetCode 0803 打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/)
+
 - [LeetCode 0947 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)
 
 - [LeetCode 1202 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/)
