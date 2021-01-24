@@ -17,3 +17,5 @@
 - [LeetCode 0830 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/)
 
 - [LeetCode 1018 可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)
+
+- [LeetCode 5662 满足三条件之一需改变的最少字符数](https://leetcode-cn.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)
