@@ -49,6 +49,8 @@ end
 
 - [LeetCode 0947 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)
 
+- [LeetCode 0959 由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/)
+
 - [LeetCode 1202 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/)
 
 - [LeetCode 1489 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
