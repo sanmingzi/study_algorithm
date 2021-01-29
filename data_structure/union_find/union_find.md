@@ -56,3 +56,5 @@ end
 - [LeetCode 1489 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 
 - [LeetCode 1579 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+
+- [LeetCode 1631 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)
