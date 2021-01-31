@@ -47,6 +47,8 @@ end
 
 - [LeetCode 0803 打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/)
 
+- [LeetCode 0839 相似字符串组](https://leetcode-cn.com/problems/similar-string-groups/)
+
 - [LeetCode 0947 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)
 
 - [LeetCode 0959 由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/)
