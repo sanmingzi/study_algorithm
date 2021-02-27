@@ -2,6 +2,8 @@
 
 ## Practice
 
+- [LeetCode 0395 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+
 - [LeetCode 0424 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)
 
 - [LeetCode 0697 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)
