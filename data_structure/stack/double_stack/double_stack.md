@@ -1,37 +1,21 @@
 # 双栈
 
-[Leetcode 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
+## 两个栈实现队列
 
-我们可以用两个栈来实现队列，其中一个栈stack0负责push，另一个栈stack1负责pop，如果在pop的时候stack1为空，则将stack0的数据倒入stack1中。
+我们可以用两个栈来实现队列，其中一个栈 @in 负责 push，另一个栈 @out 负责pop 。在 pop 的时候如果 @out 为空，则将 @in 的数据倒入 @out 中。
 
 ```ruby
-class CQueue
-    attr_accessor :stack0, :stack1
-
-    def initialize()
-      @stack0, @stack1 = [], []
+# 在 pop 的时候检查 @out 是否为空
+def check_out
+  if @out.empty?
+    while !@in.empty?
+      @out.push(@in.pop)
     end
-
-=begin
-    :type value: Integer
-    :rtype: Void
-=end
-    def append_tail(value)
-      @stack0.push(value)
-    end
-
-=begin
-    :rtype: Integer
-=end
-    def delete_head()
-      if @stack1.empty?
-        while !@stack0.empty?
-          @stack1.push(@stack0.pop)
-        end
-      end
-      
-      return -1 if @stack1.empty?
-      @stack1.pop
-    end
+  end
 end
 ```
+
+## Practices
+
+- [LeetCode 0232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+- [Leetcode 剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)
