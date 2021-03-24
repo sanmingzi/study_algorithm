@@ -35,9 +35,8 @@ area = h * (right - left - 1)
 ## Practice
 
 - [LeetCode 0316 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
-
 - [LeetCode 0321 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
-
+- [LeetCode 0456 132 模式](https://leetcode-cn.com/problems/132-pattern/)
 - [LeetCode 1028 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)
-
 - [LeetCode 1776 车队 II](https://leetcode-cn.com/problems/car-fleet-ii/)
+
