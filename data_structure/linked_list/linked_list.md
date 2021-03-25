@@ -7,4 +7,5 @@
 
 ## Practice
 
+- [LeetCode 0082 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [LeetCode 0092 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
