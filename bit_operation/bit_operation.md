@@ -32,3 +32,7 @@ x & (x - 1) = 4: 100
 这个方法有一个妙用就是能够统计一个数的二进制中 1 的数目。
 
 - [LeetCode 0191 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+
+## Practice
+
+- [LeetCode 0190 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
