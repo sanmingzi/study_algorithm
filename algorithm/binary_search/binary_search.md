@@ -2,6 +2,7 @@
 
 ## 例题
 
+- [LeetCode 0074 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 - [LeetCode 0222 完全二叉树的节点个数](leetcode_0222/leetcode_0222.md)
 - [LeetCode 0480 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/)
 - [LeetCode 0493 翻转对](https://leetcode-cn.com/problems/reverse-pairs/)
