@@ -55,4 +55,5 @@
 - [LeetCode 0227 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - [LeetCode 0331 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 - [LeetCode 0341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
+- [LeetCode 1006 笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)
 - [LeetCode 1047 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
