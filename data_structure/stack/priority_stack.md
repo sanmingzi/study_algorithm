@@ -3,9 +3,7 @@
 ## 下一个最大元素
 
 - [LeetCode 0496 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
-
 - [LeetCode 0503 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
-
 - [LeetCode 0739 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 给定一个数组，输出每一个元素的下一个更大元素。
@@ -17,7 +15,6 @@
 ## 最大矩形
 
 - [LeetCode 0084 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
-
 - [LeetCode 0085 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)
 
 给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。求在该柱状图中，能够勾勒出来的矩形的最大面积。
