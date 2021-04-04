@@ -7,4 +7,5 @@
 ## Practice
 
 - [LeetCode 0090 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+- [LeetCode 0781 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)
 - [LeetCode 0842 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
