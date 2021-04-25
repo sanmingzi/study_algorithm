@@ -9,7 +9,7 @@
 ```ruby
 def inorder_traversal(root)
     return [] if root == nil
-    
+
     results = []
     results += inorder_traversal(root.left)
     results.push(root.val)
@@ -45,5 +45,6 @@ end
 
 ## 参考
 
-- [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-- [二叉树的中序遍历解题报告](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/er-cha-shu-de-zhong-xu-bian-li-by-leetcode-solutio/)
+- [LeetCode 0094 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+- [LeetCode 0094 二叉树的中序遍历解题报告](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/er-cha-shu-de-zhong-xu-bian-li-by-leetcode-solutio/)
+- [LeetCode 0897 递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)
