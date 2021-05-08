@@ -8,4 +8,5 @@
 
 ## 回溯问题
 
-- [全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
+- [LeetCode 0047 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
+- [LeetCode 1723 完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/)
