@@ -36,3 +36,4 @@ x & (x - 1) = 4: 100
 ## Practice
 
 - [LeetCode 0190 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- [LeetCode 1734 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/)
