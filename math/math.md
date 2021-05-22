@@ -7,4 +7,5 @@
 ## Practice
 
 - [LeetCode 0633 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)
+- [LeetCode 0810 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)
 - [LeetCode 5664 放置盒子](https://leetcode-cn.com/problems/building-boxes/)
