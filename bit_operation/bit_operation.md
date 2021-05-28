@@ -36,6 +36,7 @@ x & (x - 1) = 4: 100
 ## Practice
 
 - [LeetCode 0190 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- [LeetCode 0477 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/)
 - [LeetCode 1310 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)
 - [LeetCode 1442 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)
 - [LeetCode 1734 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/)
