@@ -3,13 +3,12 @@ class PermutationLexicographic
   class << self
     def execute(arr)
       arr.sort!
-      count = 0
+      permutation = []
       while arr != nil
-        puts arr.inspect
-        count += 1
+        permutation.push(arr.dup)
         arr = generate_next(arr)
       end
-      count
+      permutation
     end
 
     def generate_next(arr)
@@ -46,7 +45,6 @@ end
   [1, 2, 3, 4],
   [1, 2, 3, 4, 5],
 ].each do |arr|
-  count = PermutationLexicographic.execute(arr)
-  puts count
-  puts "\n"
+  permutation = PermutationLexicographic.execute(arr)
+  puts permutation.uniq.size
 end

@@ -1,13 +1,14 @@
+
 # the result is un-sorted
 # the result is not uniq if the arr is not uniq
-class Permutation
+class PermutationRecursion
   def initialize(arr)
     @arr = arr.sort!
     @length = @arr.length
     @permutation = []
   end
 
-  def excute
+  def execute
     recursion(0)
     @permutation
   end
@@ -34,7 +35,7 @@ end
   [1, 2, 3, 4, 5],
   [1, 2, 3, 4, 5, 6]
 ].each do |arr|
-  permutation = Permutation.new(arr)
-  retn = permutation.excute
+  permutation = PermutationRecursion.new(arr)
+  retn = permutation.execute
   puts retn.uniq.size
 end
