@@ -2,7 +2,7 @@
 
 - 数据结构
   - [Linked List 链表](data_structure/linked_list/linked_list.md)
-  
+
   - 二叉树
     - [前序遍历](data_structure/binary_tree/preorder_traversal.md)
     - [中序遍历](data_structure/binary_tree/inorder_traversal.md)
@@ -12,7 +12,7 @@
     - 反向生成二叉树
       - 前序遍历 + 中序遍历 -> 二叉树
       - 后序遍历 + 中序遍历 -> 二叉树
-  
+
   - 平衡二叉树
     - 有序数组 -> 平衡二叉树
       - https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
@@ -30,6 +30,11 @@
     - https://leetcode.com/problems/powx-n/
   - 大数相乘
     - https://leetcode.com/problems/multiply-strings/
+
+- 搜索技术
+  - 全排列
+    - 字典序法
+    - 递归法
 
 - 算法
   - 排序
